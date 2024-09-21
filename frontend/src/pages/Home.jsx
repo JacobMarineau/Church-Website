@@ -8,7 +8,7 @@ const Home = () => {
       <div className="hero-section">
         <img src="/path-to-your-image.jpg" alt="Church community" className="hero-image" />
         <div className="hero-text">
-          <h1>Welcome to the Orthodox Church of Fargo</h1>
+          <h1>Holy Resurrection Orthodox Church</h1>
           <p>Join us in our spiritual journey, where faith, community, and tradition meet.</p>
           <a href="/contact" className="btn btn-primary">Contact Us</a>
         </div>
